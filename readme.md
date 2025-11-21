@@ -13,3 +13,23 @@ git branch -M main
 
 # puhs ke github
 git push -u origin main 
+
+
+# push ulang
+git add .
+git commit -m "..."
+
+git branch -M main
+git push -u origin main
+
+================================
+
+# push ke vercel
+- Source -> main -> code
+
+git remote add origin https://github.com/USERNAME_NAMA/NAMA_REPO.git (https://github.com/JovandaTegarPamungkas/API-Manajemen-Film.git)
+
+https://github.com/JovandaTegarPamungkas/api_fanajemen_film.git
+
+# push -f
+git push -f origin main
