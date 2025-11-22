@@ -37,6 +37,8 @@ git remote -v
 
 git remote remove origin main
 
+git status
+
 git add .
 
 git commit -m ".."
